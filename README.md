@@ -22,15 +22,23 @@ For Project 4, you will work with your group to solve, analyze, or visualize a p
 For this project, you can focus your efforts within a specific industry, as detailed in the following examples.
 
 ## Milestones
-1. Project ideation 05/31
-2. Data fetching/API integration 06/01
-3. Data analysis 06/01
-4. Building the ML model 06/05
-5. Testing 06/07
-6. Creating documentation 06/07
-7. Finish up 06/07
-8. Creating the presentation 06/08
-9. Practice Presentation 06/08
+[X] Project ideation 05/31
+
+[X] Data fetching 05/31
+
+[X] Proposal 05/31
+
+[] Clean Data 06/01
+
+[] Tableau Visuals 06/02
+
+[] Building the ML model 06/05
+
+[] Testing 06/07
+
+[] Creating the presentation 06/08
+
+[] Practice Presentation 06/08
 
 ## Project Proposal
 - The kind of data you’d like to work with and the field you’re interested in (finance, healthcare surveys, etc.): Credit score data to predict loan default.
