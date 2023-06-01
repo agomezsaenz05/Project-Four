@@ -1,4 +1,6 @@
 # Project-Four
+#### Members: Brittany Wright, Jorge Chavez, Karen Fuentes, Alejandra Gomez
+
 For Project 4, you will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
 
 1. Find a problem worth solving, analyzing, or visualizing.
