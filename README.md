@@ -28,24 +28,24 @@ For this project, you can focus your efforts within a specific industry, as deta
 
 [X] Proposal 05/31
 
-[] Clean Data 06/01
+[X] Clean Data 06/01
 
-[] Tableau Visuals 06/02
+[X] Tableau Visuals 06/02
 
-[] Building the ML model 06/05
+[X] Building the ML model 06/05
 
-[] Testing 06/07
+[X] Testing 06/07
 
-[] Creating the presentation 06/08
+[X] Creating the presentation 06/08
 
 [] Practice Presentation 06/08
 
 ## Project Proposal
-- The kind of data you’d like to work with and the field you’re interested in (finance, healthcare surveys, etc.): Credit score data to predict loan default.
-- The questions you’ll ask of the data:
+The aim of our project is to uncover patterns between loan information and loan applicant information. We will attempt to predict loan status based on credit scores as well as examine relationships between income and credit score. We will also look at other related relationships between age, credit score, loan amount and loan status.
+- The questions/predictions we will ask of the data:
     1. Predicting loan status based on credit scores?
     2. Relationship between income to credit score?
     3. Relationship between age, credit score, loan amount and status.
 - Source for the data: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
 
-The aim of our project is to uncover patterns between loan information and loan applicant information. We will attempt to predict loan status based on credit scores as well as examine relationships between income and credit score. We will also look at other related relationships between age, credit score, loan amount and loan status.
+
