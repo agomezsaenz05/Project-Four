@@ -19,27 +19,6 @@ For Project 4, you will work with your group to solve, analyze, or visualize a p
     - Amazon AWS
     - Tableau
 
-For this project, you can focus your efforts within a specific industry, as detailed in the following examples.
-
-## Milestones
-[X] Project ideation 05/31
-
-[X] Data fetching 05/31
-
-[X] Proposal 05/31
-
-[X] Clean Data 06/01
-
-[X] Tableau Visuals 06/02
-
-[X] Building the ML model 06/05
-
-[X] Testing 06/07
-
-[X] Creating the presentation 06/08
-
-[] Practice Presentation 06/08
-
 ## Project Proposal
 The aim of our project is to uncover patterns between loan information and loan applicant information. We will attempt to predict loan status based on credit scores as well as examine relationships between income and credit score. We will also look at other related relationships between age, credit score, loan amount and loan status.
 - The questions/predictions we will ask of the data:
