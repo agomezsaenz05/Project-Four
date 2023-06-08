@@ -27,4 +27,4 @@ The aim of our project is to uncover patterns between loan information and loan 
     3. Relationship between age, credit score, loan amount and status.
 - Source for the data: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
 
-
+Tableau Public Link: https://public.tableau.com/views/Project-Four_Group-3/CreditScoreSummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
