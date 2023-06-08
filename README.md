@@ -10,16 +10,18 @@ For Project 4, you will work with your group to solve, analyze, or visualize a p
 3. You must use Scikit-learn and/or another machine learning library.
 4. Your project must be powered by a dataset with at least 100 records.
 5. You must use at least two of the following:
-    - Python Pandas
-    - Python Matplotlib
+    - Python Pandas **
+    - Python Matplotlib **
     - HTML/CSS/Bootstrap
     - JavaScript Plotly
     - JavaScript Leaflet
     - SQL Database
     - MongoDB Database
     - Google Cloud SQL
-    - Amazon AWS
-    - Tableau
+    - Amazon AWS **
+    - Tableau **
+
+** Used in project
 
 ## Project Proposal
 The aim of our project is to uncover patterns between loan information and loan applicant information. We will attempt to predict loan status based on credit scores as well as examine relationships between income and credit score. We will also look at other related relationships between age, credit score, loan amount and loan status.
@@ -29,10 +31,14 @@ The questions/predictions we will ask of the data:
    2. Relationship between income to credit score?
    3. Relationship between age, credit score, loan amount and status.
 
-The source for our data: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
+Data Source: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
+
+Data Preview
+
+![image](https://github.com/agomezsaenz05/Project-Four/assets/120424668/ce4a5206-3f97-4f49-a12a-bbf235ecb563)
 
 ## Data Cleaning
-- Merged the training and testing datasets from Kaggle
+- Merged the training and testing datasets from Kaggle (full_loan_dataset.csv)
 - Dropped all null values
 - Dropped outlier credit scores
 - Recoded the “Loan Status” variable
@@ -45,7 +51,7 @@ The source for our data: https://www.kaggle.com/datasets/ychope/loan-approval-da
 - Tableau Public Link: https://public.tableau.com/views/Project-Four_Group-3/CreditScoreSummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 - Tableau file: Project-Four_Group-3.twbx
 
-## Data Model
+## Data Model Implementation & Optimization
 ### Random Forest
 - We used the top 10 most important features
 - Accuracy Score: 0.84
@@ -64,6 +70,10 @@ The source for our data: https://www.kaggle.com/datasets/ychope/loan-approval-da
 - Classifying Charged Off
 	- Precision: 0.00
 	- Recall: 0.00
+### Changing the number of predictors
+- Changed the number of predictors to the top 5 as each explained roughly 10% of the variance.
+- Predictors included current loan amount, monthly debt, maximum open credit, current credit balance. 
+
 
 
 
