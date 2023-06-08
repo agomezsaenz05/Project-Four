@@ -1,6 +1,8 @@
 # Project-Four
-#### Members: Brittany Wright, Jorge Chavez, Karen Fuentes, Alejandra Gomez
+## Team Members: 
+Brittany Wright, Jorge Chavez, Karen Fuentes, Alejandra Gomez
 
+## Project Requirements
 For Project 4, you will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
 
 1. Find a problem worth solving, analyzing, or visualizing.
@@ -21,16 +23,51 @@ For Project 4, you will work with your group to solve, analyze, or visualize a p
 
 ## Project Proposal
 The aim of our project is to uncover patterns between loan information and loan applicant information. We will attempt to predict loan status based on credit scores as well as examine relationships between income and credit score. We will also look at other related relationships between age, credit score, loan amount and loan status.
-- The questions/predictions we will ask of the data:
-    1. Predicting loan status based on credit scores?
-    2. Relationship between income to credit score?
-    3. Relationship between age, credit score, loan amount and status.
-- Source for the data: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
 
-Tableau Public Link: https://public.tableau.com/views/Project-Four_Group-3/CreditScoreSummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+The questions/predictions we will ask of the data:
+   1. Predicting loan status based on credit scores?
+   2. Relationship between income to credit score?
+   3. Relationship between age, credit score, loan amount and status.
+
+The source for our data: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
+
+## Data Cleaning
+- Merged the training and testing datasets from Kaggle
+- Dropped all null values
+- Dropped outlier credit scores
+- Recoded the “Loan Status” variable
+
+** datasets are located in "Data" folder **
+
+## Data Visualizations
+- Imported our merged dataset into Tableau
+- Created visualizations with different variables to help us see relationships between the data
+- Tableau Public Link: https://public.tableau.com/views/Project-Four_Group-3/CreditScoreSummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+- Tableau file: Project-Four_Group-3.twbx
+
+## Data Model
+### Random Forest
+- We used the top 10 most important features
+- Accuracy Score: 0.84
+- Classifying Fully Paid
+	- Precision: 0.84
+	- Recall: 1.00
+- Classifying Charged Off
+	- Precision: 0.63
+	- Recall: 0.01
+### Logistic Regression
+- Decided to use top 9 from random forest originally since the last feature only explained roughly 1% of the variance.
+- Accuracy: 0.84
+- Classifying Fully Paid
+	- Precision: 0.84
+	- Recall: 1.00
+- Classifying Charged Off
+	- Precision: 0.00
+	- Recall: 0.00
 
 
-	
+
+******************************* DELETE BEFORE SUBMITTING **************************************	
 ## Requirements
 Data Model Implementation (25 points)
 
