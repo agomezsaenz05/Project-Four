@@ -73,10 +73,13 @@ Data Preview
 - Classifying Charged Off
 	- Precision: 0.00
 	- Recall: 0.00
+
 - Logistic Regression Output
 <img width="463" alt="Screenshot 2023-06-08 at 9 15 09 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/8e278173-4f6c-407d-896a-eaa9519edfd1">
+
 - ROC Curve
 <img width="578" alt="Screenshot 2023-06-08 at 9 15 30 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/3790ecc7-1d83-4889-9a49-45ab8549b647">
+
 ### Oversampling/Undersampling
 Oversampling
 - Accuracy: 0.55
@@ -86,10 +89,13 @@ Oversampling
 - Classifying Charged Off
 	- Precision: 0.23
 	- Recall: 0.62
+
 - Regression Output
 <img width="456" alt="Screenshot 2023-06-08 at 9 20 58 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/875a7574-f16e-4d9e-a5e3-3ce7f42e0fee">
+
 - ROC Curve
 <img width="595" alt="Screenshot 2023-06-08 at 9 21 13 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/adc55c35-3385-45ba-95be-de1876c799ad">
+
 Undersampling
 - Accuracy: 0.55
 - Classifying Fully Paid
@@ -98,10 +104,13 @@ Undersampling
 - Classifying Charged Off
 	- Precision: 0.23
 	- Recall: 0.62
+	
 - Regression Output
 <img width="448" alt="Screenshot 2023-06-08 at 9 21 35 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/3d76461e-3735-4a67-b990-7bf319e6442c">
+
 - ROC Curve
 <img width="595" alt="Screenshot 2023-06-08 at 9 22 14 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/31a4e469-ce32-4763-bc43-d690cc30a127">
+
 ### Changing the number of predictors
 - Changed the number of predictors to the top 5 as each explained roughly 10% of the variance.
 - Predictors included current loan amount, monthly debt, maximum open credit, current credit balance. 
@@ -112,8 +121,10 @@ Undersampling
 - Classifying Charged Off
 	- Precision: 0.00
 	- Recall: 0.00
+	
 - Logistic Regression Output
 <img width="452" alt="Screenshot 2023-06-08 at 9 16 04 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/3e0d0b46-bfe2-46d4-8e28-f54b9753384f">
+
 - ROC Curve
 <img width="591" alt="Screenshot 2023-06-08 at 9 16 55 PM" src="https://github.com/agomezsaenz05/Project-Four/assets/119909433/bad81bb0-08aa-4572-b2d7-758856b3bb9f">
 
