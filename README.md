@@ -61,8 +61,9 @@ Data Preview
 - Classifying Charged Off
 	- Precision: 0.63
 	- Recall: 0.01
-- Random Forest Output using Databricks
+- Random Forest Output using Databricks/
 ![Screenshot 2023-06-08 at 9 13 51 PM](https://github.com/agomezsaenz05/Project-Four/assets/119909433/4feede1e-1f95-4162-bea5-95840ca0abaa)
+
 ### Logistic Regression
 - Decided to use top 9 from random forest originally since the last feature only explained roughly 1% of the variance.
 - Accuracy: 0.84
