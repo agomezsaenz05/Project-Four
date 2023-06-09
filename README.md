@@ -1,6 +1,6 @@
 # Project-Four
 ## Team Members: 
-Brittany Wright, Jorge Chavez, Karen Fuentes, Alejandra Gomez
+Brittany Wright, Jorge Chavez, Alejandra Gomez
 
 ## Project Requirements
 For Project 4, you will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
@@ -27,9 +27,10 @@ For Project 4, you will work with your group to solve, analyze, or visualize a p
 The aim of our project is to uncover patterns between loan information and loan applicant information. We will attempt to predict loan status based on credit scores as well as examine relationships between income and credit score. We will also look at other related relationships between age, credit score, loan amount and loan status.
 
 The questions/predictions we will ask of the data:
-   1. Predicting loan status based on credit scores?
-   2. Relationship between income to credit score?
-   3. Relationship between age, credit score, loan amount and status.
+1. What are the relationships between the loan status & credit scores to the other variables?
+2. Does the relationship between income and credit score have sufficient strength to generate an accurate credit score?
+3. Can we predict loan status based on current loan amount, monthly debt, maximum open credit, current credit balance, years of credit history, months since last delinquent, number of open 		accounts, credit score, and annual income?
+
 
 Data Source: https://www.kaggle.com/datasets/ychope/loan-approval-dataset
 
