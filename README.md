@@ -5,7 +5,7 @@ Brittany Wright, Jorge Chavez, Karen Fuentes, Alejandra Gomez
 ## Project Requirements
 For Project 4, you will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
 
-1. Find a problem worth solving, analyzing, or visualizing.
+1. Find a problem worth solving, analyzing, or visualizing. 
 2. Use machine learning (ML) with the technologies we’ve learned.
 3. You must use Scikit-learn and/or another machine learning library.
 4. Your project must be powered by a dataset with at least 100 records.
